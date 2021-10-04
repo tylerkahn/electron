@@ -69,6 +69,10 @@ Electron apps.
 See [here](#removed-desktopcapturergetsources-in-the-renderer) for details on
 how to replace this API in your app.
 
+## Planned Breaking API Changes (15.0)
+
+Where did breaking changes for 15 go? May want to investigate this on main 🤔
+
 ## Planned Breaking API Changes (14.0)
 
 ### Removed: `remote` module
